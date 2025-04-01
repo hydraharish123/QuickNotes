@@ -5,13 +5,13 @@
   <h1>Quick Notes</h1>
 
   <h3>
-    <a href="https://the-wild-oasis-alamin.vercel.app">
+    <a href="https://quicknotes-gamma.vercel.app/">
       <strong>Live Site</strong>
     </a>
   </h3>
 
   <div align="center">
-    <a href="https://the-wild-oasis-alamin.vercel.app">View website</a>
+    <a href="https://quicknotes-gamma.vercel.app/">View website</a>
     •
     <a href="https://github.com/hydraharish123/QuickNotes/issues">Report Bug</a>
     •
@@ -46,7 +46,7 @@ Welcome to <b>Quick Notes</b>! This is a simple and intuitive sticky notes app t
 
 ## Live Site
 
-Check out the live app here: [QuickNotes](https://the-wild-oasis-alamin.vercel.app)
+Check out the live app here: [QuickNotes](https://quicknotes-gamma.vercel.app/)
 
 
 ## Key Features
