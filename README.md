@@ -101,6 +101,3 @@ To run this project locally:
 
 Feel free to contact me with any questions or feedback!
 
-## Acknowledgments
-
-This app was developed as part of the [Udemy course](https://www.udemy.com/course/the-ultimate-react-course) by **Jonas Schmedtmann**. Special thanks to Jonas for his excellent teaching and guidance throughout the course.
