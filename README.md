@@ -86,7 +86,7 @@ To run this project locally:
    npm install
    ```
 3. Set up environment variables:
-   - Configure Supabase and add the necessary environment variables in a `.env` file. Check out the `.env.example` for reference.
+   - Configure appwrite and add the necessary environment variables in a `.env` file. Check out the `.env.example` for reference.
 4. Run the development server:
    ```bash
    npm run dev
